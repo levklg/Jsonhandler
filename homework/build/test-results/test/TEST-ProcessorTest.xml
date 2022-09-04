@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProcessorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-04T11:04:33" hostname="LAPTOP-NCR5GMRE" time="0.305">
+  <properties/>
+  <testcase name="Из файла читается json, обрабатывается, результат сериализуется в строку" classname="ProcessorTest" time="0.305"/>
+  <system-out><![CDATA[C:\Users\ilush\AppData\Local\Temp\junit7286504892591422468
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
